@@ -6,16 +6,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./main.css">
+    <script src="./script.js" defer></script>
 </head>
 <body>
     <h1> derp </h1>
-    <div class="image-grid">
-        <img class="image-grid-col-2, image-grid-row-2" src="Images/DriverLicenseFront.PNG" alt="cat">
-        <img src="Images/DriverLicenseFront.PNG" alt="cat">
-        <img src="Images/DriverLicenseFront.PNG" alt="cat">
-        <img src="Images/DriverLicenseFront.PNG" alt="cat">
-        <img src="Images/DriverLicenseFront.PNG" alt="cat">
+    <ul class="tabs">
+        <li data-tab-target="#home" class="active tab">Home</li>
+        <li data-tab-target="#about" class="tab">About</li>
+    </ul>
+    
 
+    <div class="tab-content">
+
+        <div id="home" data-tab-content class="active">
+            <p> Home</p>
+            <div class="image-grid">
+                <img class="image-grid-col-2, image-grid-row-2" src="Images/Wallabies.jpg" alt="cat">
+                <img src="Images/Wallabies.jpg" alt="cat">
+                <img src="Images/Wallabies.jpg" alt="cat">
+                <img src="Images/Wallabies.jpg" alt="cat">
+                <img src="Images/Wallabies.jpg" alt="cat">
+            </div>
+        </div>
+
+        <div id="about" data-tab-content>
+            <p> About</p>
+            
+            <div class="image-grid">
+                <img class="image-grid-col-2, image-grid-row-2" src="Images/Wallabies.jpg" alt="cat">
+                <img src="Images/Wallabies.jpg" alt="cat">
+                <img src="Images/Wallabies.jpg" alt="cat">
+                <img src="Images/Wallabies.jpg" alt="cat">
+                <img src="Images/Wallabies.jpg" alt="cat">
+            </div>
+            
+        </div>
+        
     </div>
+    
 </body>
 </html>

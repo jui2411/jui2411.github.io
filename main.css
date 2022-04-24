@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    padding: 0;
 }
 
 .image-grid{
@@ -28,6 +29,42 @@ body {
 
 .image-grid-row-2 {
     grid-row: span 2;
+}
+
+[data-tab-content] {
+    display: none;
+}
+
+.active[data-tab-content] {
+    display: block;
+}
+
+
+.tabs {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid black;
+}
+
+.tab {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.tab:hover {
+    background-color: #aaa;
+}
+
+.tab.active {
+    background-color: #ccc;
+}
+
+.tab-content {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 @media screen and (max-width: 1024px) {
