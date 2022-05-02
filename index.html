@@ -5,53 +5,119 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./main.css">
-    <script src="./script.js" defer></script>
+
+    <!-- Font Collection -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Link to other -->
+    <link rel="stylesheet" href="./style.css">
+    <script src="./main.js" defer></script>
+
 </head>
 <body>
-    <h1> Ui Jia Shen 's Porfolio </h1>
-    <ul class="tabs">
-        <li data-tab-target="#home" class="active tab">Home</li>
-        <li data-tab-target="#about" class="tab">About</li>
-    </ul>
-    
+
+    <header>
+        <div class="wrapper">
+            <nav>
+                <div class="logo">
+                    <img src="/Images/Logo.png" alt="">
+                </div>
+
+                <ul>
+                    <li>
+                        <a href="#">About Me</a>
+                    </li>
+
+                    <li>
+                        <div class="dropdown" data-dropdown>
+                            <button href="#" class="dropdown-button arrow" data-dropdown-button>Portfolio</button>
+                            <div class="dropdown-menu information-grid">
+                              <div>
+                                <div class="dropdown-heading">Engineering</div>
+                                <div class="dropdown-links">
+                                  <a href="#" class="link">EE</a>
+                                  <a href="#" class="link">Software</a>
+                                  
+                                </div>
+                              </div>
+                              <div>
+                                <div class="dropdown-heading">Development</div>
+                                <div class="dropdown-links">
+                                  <a href="#" class="link">Game Dev</a>
+                                  <a href="#" class="link">Web Dev</a>
+                                  
+                                </div>
+                              </div>
+                              <div>
+                                <div class="dropdown-heading">Digital Arts</div>
+                                <div class="dropdown-links">
+                                  <a href="#" class="link">3D Art</a>
+                                  <a href="#" class="link">2D Art</a>
+                                </div>
+                              </div>
+                              
+                            </div>
+                        </div>
+                        
+                        
+                    </li>
+
+                    <li>
+                        <a href="#">Articles</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <!-- End of Desktop Navigation Menu -->
+
+            <div class="hero-section">
+                <div class="left">
+                    <h2>Hello! My name is <br>
+
+                        Jia Shen Ui / Jason Ui</h2>
+
+                    <h1>
+                        Electrical & Electronics <br> Engineering Graduate from <br> the University of Canterbury
+                    </h1>
+
+                    <p>
+                        Welcome to my website, where you can learn about my background, educations, and experiences. <br> <br>
+
+                        On this site, you may see my master portfolio and notes about tools that help me live happier, healthier, and more productive.
+                    </p>
+
+                    <a href="#" class="btn light"> 
+                        
+                        CV Here 
+                        
+                    </a>
+                </div>
+
+                <div class="right">
+                    <img src="/Images/dp.png" alt="">
+                </div>
+
+                <div class="cosmetic-cards">
+                    <div class="cosmetic-card icon">
+                        <img src="/Images/dot.svg" alt="">
+                    </div>
+                </div>
 
 
-    <div class="tab-content">
-
-        <div id="home" data-tab-content class="active">
-            <div class="sub-tabs-container">
-                <li>Home</li>
-                <li>About</li>
             </div>
+        </div>        
+    </header>
 
-            
-            <p> Home</p>
-            <div class="image-grid">
-                <img class="image-grid-col-2, image-grid-row-2" src="Images/Wallabies.jpg" alt="cat">
-                <img src="Images/Wallabies.jpg" alt="cat">
-                <img src="Images/Wallabies.jpg" alt="cat">
-                <img src="Images/Wallabies.jpg" alt="cat">
-                <img src="Images/Wallabies.jpg" alt="cat">
-            </div>
+    <!-- End of the header section -->
 
-            <iframe src='https://my.spline.design/knightswordrockscopy-be10858f82b59f53877b7276caf2dd35/' frameborder='0' width='100%' height='100%'></iframe>
-            
-        </div>
+    <div class="wrapper">
 
-        <div id="about" data-tab-content>
-            <p> About</p>
-            
-            <div class="image-grid">
-                <img class="image-grid-col-2, image-grid-row-2" src="Images/Siberian_Tiger.jpg" alt="cat">
-                <img src="Images/Siberian_Tiger.jpg" alt="cat">
-                <img src="Images/Siberian_Tiger.jpg" alt="cat">
-                <img src="Images/Siberian_Tiger.jpg" alt="cat">
-                <img src="Images/Siberian_Tiger.jpg" alt="cat">
-            </div>
-            
-        </div>
-        
     </div>
     
 </body>
