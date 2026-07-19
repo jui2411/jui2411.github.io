@@ -91,6 +91,10 @@ A running list of restaurants and cafes in Christchurch, for whenever I can't de
 
 - ⭐ **Hang Seng** — Note: big portion (lots of meat)
 
+## Cambodian
+
+- **Diversity** (Riccarton)
+
 ## Western (NZ)
 
 - **Strawberry Fare** — Recommended by others, do first table
