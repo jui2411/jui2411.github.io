@@ -22,6 +22,11 @@ A running list of restaurants and cafes in Christchurch, for whenever I can't de
 - **Melaka Kopitiam** — Run by Malaysians, mid-tier Malaysian food. Some reviews suggest food is not good
 - ⭐ **5 Foot Way** — On Facebook, open once every so often (approx every 3 months). Sells Singaporean chicken rice (rated better than City Cafe) and also highly rated kueh
 - **Hot Jack** — Highly recommended
+- **Yummy Restaurant** (Riccarton) — Personally don't recommend, flavours too strong for me, but Leanne likes them for that
+  - Green bean with sambal
+  - Chicken chop with deep fried onion
+  - Mongolian pork
+  - Deep fried tofu with mince
 
 ### Food Courts
 
