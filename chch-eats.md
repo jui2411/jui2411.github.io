@@ -94,6 +94,11 @@ A running list of restaurants and cafes in Christchurch, for whenever I can't de
 ## Cambodian
 
 - **Diversity** (Riccarton)
+  - Pork Pan Fried Dumplings — crowd-favourite starter, served with black vinegar and chilli soy oil
+  - Roti with Peanut Sauce — reviewers consistently call the house-made peanut dipping sauce the best they've ever had
+  - Cambodian Beef Salad (or Khmer Red Curry) — highlights the restaurant's authentic Khmer heritage
+  - Mee Goreng (or Drunken Noodles) — highly-rated, fresh, and flavorful, easy to portion out
+  - Extra Special Fried Rice (or Pineapple Fried Rice) — frequently singled out as a standout base dish for a shared table
 
 ## Western (NZ)
 
