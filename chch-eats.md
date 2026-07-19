@@ -77,7 +77,7 @@ A running list of restaurants and cafes in Christchurch, for whenever I can't de
 - **Shanghai** — Recommended by others for Chinese breakfast
 - **Shanghai Bistro** — Recommended
 - **Joyful Restaurant** — Recommend
-- ⭐ **EastEat** — Recommended
+- ~~EastEat~~ — Permanently closed
 - ⭐ **EC Noodle** — Recommended
 - **FAI BBQ**
 - **Sichuan Snacks/Sushi & Bento Bowl**
@@ -85,6 +85,7 @@ A running list of restaurants and cafes in Christchurch, for whenever I can't de
 - ⭐ **金味德 Jinweide Beef Noodle Christchurch**
 - ⭐ **Focus Dining**
 - **Lui Cuisines**
+- **Fuji**
 
 ## Hong Kong
 
